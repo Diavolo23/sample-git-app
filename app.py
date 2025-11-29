@@ -7,3 +7,7 @@ with col1:
 with col2:
     st.header('Campus X is online')
 
+st.header("courses")
+st.subheader('DSMP')
+st.subheader('DAMP')
+st.subheader('DEMP')
